@@ -8,3 +8,4 @@
 * [elementUI](https://element.eleme.io/#/zh-CN)：web前端的桌面UI端组件库。
 * [echarts](https://echarts.apache.org/zh/index.html)：echarts是一个Js的开源图表库。
 * [antd](https://ant.design/index-cn)：UI组件库，有PC端和移动端。
+* [bigInt](https://github.com/sidorares/json-bigint)：原生的JSON.parse会把数字转换为JS的Number，但是如果数字太大，就会损失精度，因此必须采用自定义的bigNumber。该库实现了自定义的bigNumber，能够保证精度。
