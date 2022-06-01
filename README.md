@@ -10,3 +10,7 @@
 * [antd](https://ant.design/index-cn)：UI组件库，有PC端和移动端。
 * [bigInt](https://github.com/sidorares/json-bigint)：原生的JSON.parse会把数字转换为JS的Number，但是如果数字太大，就会损失精度，因此必须采用自定义的bigNumber。该库实现了自定义的bigNumber，能够保证精度。
 * [Yapi](https://github.com/YMFE/yapi):一个本地化部署的测试，mock框架。
+* [flowchartJS](https://flowchart.js.org/):流程图工具。
+* [GoJS](https://gojs.net/latest/index.html):H5绘图工具。
+* [Mermaid](https://github.com/mermaid-js/mermaid):流程图、时序图、甘特图、状态图、类图、饼状图等。
+* [wavedorm](https://wavedrom.com/):数字时序图。
